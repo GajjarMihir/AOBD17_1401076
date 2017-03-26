@@ -1,0 +1,9 @@
+1. The standard MNIST dataset is used to test the Deep Neural Network implemented using Tensorflow.
+
+2. In the simple neural network:
+
+[0, 0, 1], [1, 1, 1], [1, 0, 1], [0, 1, 1] -  Training set inputs.
+[0,         1,         1,         0      ] -  Training set outputs.
+Note: The output is the first element in every training example.
+[1, 0, 0] - Testing set input.
+
